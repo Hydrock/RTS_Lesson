@@ -1,0 +1,7 @@
+body {
+  font-family: sans-serif;
+}
+
+canvas {
+  outline: 1px solid black;
+}
