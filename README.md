@@ -1,5 +1,9 @@
 # RTS - real time strategy
 
+## Запуск
+
+`yarn start`
+
 ## Цель
 
 Написать игру в жанре RTS

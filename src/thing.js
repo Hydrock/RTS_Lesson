@@ -13,7 +13,3 @@ Thing.prototype.draw = function (color = "red") {
   context.fillStyle = color;
   context.fillRect(this.position.x, this.position.y, this.width, this.height);
 };
-
-// const obj = new Thing(100, 100, { x: 100, y: 100 });
-
-// obj.draw();

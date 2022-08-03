@@ -1,14 +1,14 @@
-import "./context";
-import "./thing";
+import "./context.js";
+import "./thing.js";
 
-import "./things/kulikov";
-import "./things/bolotin";
-import "./things/aromanov";
-import "./things/hydrock";
-import "./things/vklimov";
-import "./things/kanatova";
-import "./things/etepin";
-import "./things/savich";
-import "./things/nalekseev";
-import "./things/elinapolo";
-import "./things/akoshkarov";
+import "./things/kulikov.js";
+import "./things/bolotin.js";
+import "./things/aromanov.js";
+import "./things/hydrock.js";
+import "./things/vklimov.js";
+import "./things/kanatova.js";
+import "./things/etepin.js";
+import "./things/savich.js";
+import "./things/nalekseev.js";
+import "./things/elinapolo.js";
+import "./things/akoshkarov.js";

@@ -1,4 +1,4 @@
-import { Thing } from "../thing";
+import { Thing } from "../thing.js";
 
 Thing.prototype.pos = function (x = 0, y = 0) {
   this.x = x;
